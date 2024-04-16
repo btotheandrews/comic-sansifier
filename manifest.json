@@ -7,7 +7,8 @@
         "default_icon": "/images/cs16.png"
     },
     "permissions": [
-        "scripting"
+        "scripting",
+        "activeTab"
     ],
     "background": {
         "service_worker": "/main/main.js"
